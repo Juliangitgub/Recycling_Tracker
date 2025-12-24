@@ -48,8 +48,6 @@ This project was built as a **learning-oriented and portfolio-ready application*
 - **Docker**
 - **Docker Compose**
 
----
 
-## 🏗️ Architecture Overview
 
 
